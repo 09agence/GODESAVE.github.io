@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.cdacollaborative.org	TRUE	/	FALSE	1999999999	__cfduid	d5f2def26e69aae7edbd01d589188433d1617218487
+www.cdacollaborative.org	TRUE	/	FALSE	1999999999	SameSite	Lax
+.randomuser.me	TRUE	/	FALSE	1999999999	__cfduid	dd9bf8f15546763a761b2a193063c822b1617218491
+randomuser.me	TRUE	/	FALSE	1999999999	SameSite	Lax
+.amung.us	TRUE	/	FALSE	1999999999	__cfduid	de764d06c3b22c3e3493a2978805cfbb91617218497
+widgets.amung.us	TRUE	/	FALSE	1999999999	SameSite	Lax
+.tynt.com	TRUE	/	FALSE	1999999999	__cfduid	d9a44c9435739e91e264c9436227fdc6c1617218590
+cdn.tynt.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

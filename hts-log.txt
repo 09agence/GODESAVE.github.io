@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 31 Mar 2021 21:21:16 at http://6mwa.com/visa/# +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "fr, en, *" http://6mwa.com/visa/# -O1 "C:\Users\Droide\Desktop\w\lol2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:21:38	Error: 	"Not Found" (404) at link 6mwa.com/visa/bit.ly/visa-swe|bit.ly/visa-swe (from 6mwa.com/visa/)
+21:21:38	Error: 	"Not Found" (404) at link 6mwa.com/visa/IFRAME_URL (from 6mwa.com/visa/)
+21:23:14	Error: 	"Not Found" (404) at link 6mwa.com/visa/en-us/assets/css/9eeec628/images/man.html (from 6mwa.com/visa/en-us/assets/css/voucher_main_style0cee.css)
+21:23:14	Error: 	"Not Found" (404) at link 6mwa.com/visa/en-us/assets/css/9eeec628/images/woman.html (from 6mwa.com/visa/en-us/assets/css/voucher_main_style0cee.css)
+21:23:14	Error: 	"Not Found" (404) at link 6mwa.com/visa/en-us/assets/css/9eeec628/images/email.html (from 6mwa.com/visa/en-us/assets/css/voucher_main_style0cee.css)
+21:23:14	Error: 	"Not Found" (404) at link 6mwa.com/visa/en-us/assets/css/9eeec628/images/location.html (from 6mwa.com/visa/en-us/assets/css/voucher_main_style0cee.css)
+21:23:14	Error: 	"Not Found" (404) at link 6mwa.com/visa/en-us/assets/css/9eeec628/images/birth.html (from 6mwa.com/visa/en-us/assets/css/voucher_main_style0cee.css)
+21:23:18	Error: 	"Not Found" (404) at link 6mwa.com/visa/amung.us/small.js (from widgets.amung.us/small.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 2 seconds : 61 links scanned, 52 files written (3090245 bytes overall) [3096049 bytes received at 25377 bytes/sec], 57018 bytes transferred using HTTP compression in 12 files, ratio 38%, 2.3 requests per connection
+(8 errors, 0 warnings, 0 messages)
